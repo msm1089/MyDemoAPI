@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-Sample Implicit Flow OAuth2 Project
+MyDemoAPI
 
 This is an example of using OAuth2 Implicit Flow in a specification to describe security to your API.
 
@@ -12,7 +12,7 @@ OpenAPI spec version: 1.0.0
     
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{423DA5BF-102D-46DF-A727-1B6426801B99}</ProjectGuid>
+    <ProjectGuid>{746229EB-4032-46D3-9C24-C25D6F07575B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>IO.Swagger</RootNamespace>

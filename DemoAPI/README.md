@@ -1,4 +1,4 @@
-# IO.Swagger - the C# library for the Sample Implicit Flow OAuth2 Project
+# IO.Swagger - the C# library for the MyDemoAPI
 
 This is an example of using OAuth2 Implicit Flow in a specification to describe security to your API.
 

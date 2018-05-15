@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-Sample Implicit Flow OAuth2 Project
+MyDemoAPI
 
 This is an example of using OAuth2 Implicit Flow in a specification to describe security to your API.
 
@@ -75,7 +75,7 @@ OpenAPI spec version: 1.0.0
   <Import Project="$(MsBuildToolsPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
       <ProjectReference Include="..\IO.Swagger\IO.Swagger.csproj">
-          <Project>{423DA5BF-102D-46DF-A727-1B6426801B99}</Project>
+          <Project>{746229EB-4032-46D3-9C24-C25D6F07575B}</Project>
           <Name>IO.Swagger</Name>
       </ProjectReference>
   </ItemGroup>

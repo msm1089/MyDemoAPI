@@ -1,5 +1,5 @@
 /* 
- * Sample Implicit Flow OAuth2 Project
+ * MyDemoAPI
  *
  * This is an example of using OAuth2 Implicit Flow in a specification to describe security to your API.
  *
